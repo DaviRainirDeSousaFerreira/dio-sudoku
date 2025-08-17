@@ -14,7 +14,8 @@ Este projeto é um jogo de Sudoku desenvolvido em Java com interface gráfica, o
 AWT Event Handling (java.awt.event.ActionListener) – Mecanismo para capturar e tratar eventos de interação do usuário, como cliques de botão.
 
 
-# ⚙️ Funcionalidades
+
+## ⚙️ Funcionalidades
 
 O jogo de Sudoku possui uma interface gráfica simples e intuitiva com três botões principais:
 
@@ -28,6 +29,7 @@ O jogo de Sudoku possui uma interface gráfica simples e intuitiva com três bot
   Permite finalizar o jogo.
     - Se a solução estiver correta → o jogo é concluído com sucesso.
     - Se houver inconsistências → uma mensagem avisa que há erros e o jogador precisa corrigir antes de tentar novamente.
+
 
 # Progama funcionando
 ![Logo do Projeto](imagem/progamaRodando.png)
