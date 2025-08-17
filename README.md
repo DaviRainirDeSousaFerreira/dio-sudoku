@@ -29,5 +29,5 @@ O jogo de Sudoku possui uma interface gráfica simples e intuitiva com três bot
     - Se a solução estiver correta → o jogo é concluído com sucesso.
     - Se houver inconsistências → uma mensagem avisa que há erros e o jogador precisa corrigir antes de tentar novamente.
 
-# Progama funcioando
+# Progama funcionando
 ![Logo do Projeto](imagem/progamaRodando.png)
